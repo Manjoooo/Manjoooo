@@ -5,7 +5,7 @@
 | <span style="color:red;display:block;text-align:center;"> **성취도**</span> | 결과 |
 |---|---|
 | 총 문제 수 | 3 |
-| 획득 경험치 | 0 / 25 XP |
+| 획득 경험치 | 25 / 25 XP |
 | 연속 학습 일 | 0 일 |
 
 <br />
