@@ -6,4 +6,4 @@ b=int(arr[1])
 
 #round 함수 사용하면 되묘!
 c=(a+b) / (a-b)
-print(round(c,2))
+print(f"{c:.2f}")
