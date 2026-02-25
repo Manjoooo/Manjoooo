@@ -5,37 +5,11 @@ a = int(arr[0])
 b = int(arr[1])
 
 
-if a >= b:
-    print(1)
-else:
-    print(0)
+print(int(a >= b))
+print(int(a > b))
+print(int(a <= b))
+print(int(a < b))
+print(int(a == b))
+print(int(a != b))
 
-if a >= b:
-    print(1)
-else:
-    print(0)
-
-if a > b:
-    print(1)
-else:
-    print(0)
-
-if a <= b:
-    print(1)
-else:
-    print(0)
-
-if a < b:
-    print(1)
-else:
-    print(0)
-
-if a == b:
-    print(1)
-else:
-    print(0)
-
-if a != b:
-    print(1)
-else:
-    print(0)
+#0과 1에 대해서 참 거짓 받고 싶으면 int로 표시 
