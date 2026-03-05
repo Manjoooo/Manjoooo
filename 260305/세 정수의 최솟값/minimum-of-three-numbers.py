@@ -5,9 +5,12 @@ a = int(arr[0])
 b = int(arr[1])
 c = int(arr[2])
 
-if a < b and a < c:
+if a <= b and a <= c:
     print(a)
-elif b < a and b < c:
+elif b <= a and b <= c:
     print(b)
-elif c < a and c < b:
+else
     print(c)
+    
+#작거나 같다면 이 녀석이 범인(최솟값)이다 그러니까 =은 써야한다. 
+    
