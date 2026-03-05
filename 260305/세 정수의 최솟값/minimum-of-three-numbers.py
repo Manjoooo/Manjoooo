@@ -9,7 +9,7 @@ if a <= b and a <= c:
     print(a)
 elif b <= a and b <= c:
     print(b)
-else
+else:
     print(c)
     
 #작거나 같다면 이 녀석이 범인(최솟값)이다 그러니까 =은 써야한다. 
