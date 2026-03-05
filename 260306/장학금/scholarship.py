@@ -1,5 +1,5 @@
 inp = input()
-arr = inp
+arr = inp.split()
 
 te1 = int(arr[0])
 te2 = int(arr[1])
